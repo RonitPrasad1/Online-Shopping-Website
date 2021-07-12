@@ -1,2 +1,2 @@
 # Online-Shopping-Website
-Website programmed in HTML STC (Sold to Customer)
+Website programmed in HTML STC.
